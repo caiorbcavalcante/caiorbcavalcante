@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Me chamo Caio, sou estudante de Ciências da Computação na Universidade Estadual da Paraíba.<br><br>💻 O que estou estudando/curtindo<br>- Desenvolvimento back-end<br>- Automação e integração de sistemas com n8n<br>- Aprimorando meus conhecimentos em React e Docker<br><br>🚀 No que acredito<br>Aprendizado constante + prática consistente.<br>Gosto de entender o porquê das coisas e evoluir um passo por dia — sem atalhos.<br><br>🎯 Objetivo<br>Construir soluções úteis, crescer na área de tecnologia e colaborar com equipes que valorizam disciplina, curiosidade e melhoria contínua.<br><br>🤝 Vamos conectar?<br>Se você curte inovação, tech de verdade e evolução diária — bora conversar!</p>
+<p align="left">Hi, I'm Caio 👋<br>Computer Science student at Universidade Estadual da Paraíba, passionate about back-end development and building things that actually work.<br>💻 What I'm studying & enjoying<br>Back-end development is my main focus. I'm currently studying C# with ASP.NET Core, Docker, and exploring Python for machine learning.<br>🚀 What I believe in<br>Consistent learning + consistent practice. I like understanding the why behind things and getting a little better every day — no shortcuts.<br>🎯 Goal<br>Build useful solutions, grow in the tech field, and collaborate with teams that value discipline, curiosity, and continuous improvement.<br>🤝 Let's connect!<br>If you're into real tech, innovation, and daily growth — let's talk!</p>
 
 ###
 
@@ -56,13 +56,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
